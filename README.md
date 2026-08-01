@@ -18,6 +18,7 @@ I'm a Software Engineering student who enjoys building things (especially when t
 💬 &nbsp;Ask me about **coding, random things I've built, and my never-ending journey of trying to make my code work.**  
 ⚡ &nbsp;Fun fact: **I don't always know why my code works, but I'm learning why. 😅**
 
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -42,24 +43,36 @@ I'm a Software Engineering student who enjoys building things (especially when t
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rogersjean639@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
+</-- Old stuff
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean684&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>*/
+-->
+
+---
+### 📈 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
 </p>
 
+---
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rogersjean639@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</-- Old Stuff
 ### 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+-->
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Jean684">Jean684</a></i></p>
+<p align="center"><i> See you in the next commit ❤️ </a></i></p>
