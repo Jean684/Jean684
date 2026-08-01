@@ -9,6 +9,7 @@
 </p>
 
 ### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
 I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects. Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
