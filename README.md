@@ -43,13 +43,5 @@ I'm a Software Engineering student who enjoys building things (especially when t
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
-<br>
-
-<h2 align="center">🔗 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rogersjean639@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 <p align="center"><i> See you in the next commit ❤️ </a></i></p>
