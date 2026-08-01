@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=805&height=44&lines=Software%20Engineering%20Student%20%40%20RMIT%20University;%E2%98%95%20Turning%20coffee%20into%20code%20(and%20occasionally%20bugs)." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
 I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects. Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
@@ -18,8 +18,8 @@ I'm a Software Engineering student who enjoys building things (especially when t
 💬 &nbsp;Ask me about **coding, random things I've built, and my never-ending journey of trying to make my code work.**  
 ⚡ &nbsp;Fun fact: **I don't always know why my code works, but I'm learning why. 😅**
 
-
-### 🛠️ Tech Stack
+<br>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,20 +43,21 @@ I'm a Software Engineering student who enjoys building things (especially when t
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
----
-### 📈 GitHub Analysis
+
+
+<h3 align="center">📈 GitHub Analysis</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
 </p>
 
-### 🥨 Contribution Graph
+
+<h3 align="center">🥨 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/db61a2/Jean684" />
 </p>
 
----
 
 <h3 align="center">🔗 Connect With Me</h3>
 
