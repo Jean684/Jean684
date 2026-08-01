@@ -9,7 +9,6 @@
 </p>
 
 ### 🚀 About Me
-<h3 align="center">🚀 About Me</h3>
 
 I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects. Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
@@ -19,10 +18,10 @@ I'm a Software Engineering student who enjoys building things (especially when t
 💬 &nbsp;Ask me about **coding, random things I've built, and my never-ending journey of trying to make my code work.**  
 ⚡ &nbsp;Fun fact: **I don't always know why my code works, but I'm learning why. 😅**
 
----
+
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -51,7 +50,6 @@ I'm a Software Engineering student who enjoys building things (especially when t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
 </p>
 
----
 ### 🥨 Contribution Graph
 
 <p align="center">
@@ -60,12 +58,11 @@ I'm a Software Engineering student who enjoys building things (especially when t
 
 ---
 
-### 🔗 Connect With Me
+<h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rogersjean639@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
 <p align="center"><i> See you in the next commit ❤️ </a></i></p>
