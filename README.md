@@ -10,8 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects.   
-Currently learning full-stack development, algorithms, and whatever catches my curiosity.
+I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects. Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
 🔭 &nbsp;I'm currently working on **building personal projects to grow my portfolio.**  
 🌱 &nbsp;I'm currently improving **full-stack development with React &amp; Next.js.**  
