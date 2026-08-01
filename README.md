@@ -51,13 +51,6 @@ Currently learning full-stack development, algorithms, and whatever catches my c
   <a href="mailto:rogersjean639@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Jean684&show_icons=true&theme=default&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Jean684&layout=compact&theme=default&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
