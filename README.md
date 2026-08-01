@@ -10,13 +10,13 @@
 
 ### 🚀 About Me
 
-I'm a software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects.   
+I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects.   
 Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
 🔭 &nbsp;I'm currently working on **building personal projects to grow my portfolio.**  
-🌱 &nbsp;I'm currently learning **full-stack development with React &amp; Next.js.**  
+🌱 &nbsp;I'm currently improving **full-stack development with React &amp; Next.js.**  
 👯 &nbsp;I'm looking to collaborate on **projects where I can learn and contribute.**  
-💬 &nbsp;Ask me about **coding, random things I've built, and never-ending journey of trying to make my code work.**  
+💬 &nbsp;Ask me about **coding, random things I've built, and my never-ending journey of trying to make my code work.**  
 ⚡ &nbsp;Fun fact: **I don't always know why my code works, but I'm learning why. 😅**
 
 ### 🛠️ Tech Stack
@@ -41,7 +41,6 @@ Currently learning full-stack development, algorithms, and whatever catches my c
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ### 🔗 Connect With Me
