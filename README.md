@@ -45,22 +45,6 @@ I'm a Software Engineering student who enjoys building things (especially when t
 
 <br>
 
-<h2 align="center">📈 GitHub Analysis</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jean684&show_icons=true&theme=default&hide_border=true&title_color=db61a2&icon_color=2563eb" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean684&layout=compact&theme=default&hide_border=true&title_color=db61a2&icon_color=2563eb" />
-</p>
-
-
-<h2 align="center">🌱 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
-</p>
-
-
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
