@@ -46,7 +46,6 @@ I'm a Software Engineering student who enjoys building things (especially when t
 <br>
 
 <h2 align="center">📈 GitHub Analysis</h2>
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
@@ -54,7 +53,6 @@ I'm a Software Engineering student who enjoys building things (especially when t
 
 
 <h2 align="center">🥨 Contribution Graph</h2>
----
 
 <p align="center">
   <img src="https://ghchart.rshah.org/db61a2/Jean684" />
@@ -62,7 +60,6 @@ I'm a Software Engineering student who enjoys building things (especially when t
 
 
 <h2 align="center">🔗 Connect With Me</h2>
----
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
