@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=805&height=44&lines=Software%20Engineering%20Student%20%40%20RMIT%20University;%E2%98%95%20Turning%20coffee%20into%20code%20(and%20occasionally%20bugs)." alt="Typing headlines" />
 </p>
 
-<h3 align="center">🚀 About Me</h3>
+<h2 align="center">🚀 About Me</h2>
 
 I'm a Software Engineering student who enjoys building things (especially when they actually work), solving problems (mostly my own), and learning through random projects. Currently learning full-stack development, algorithms, and whatever catches my curiosity.
 
@@ -19,7 +19,7 @@ I'm a Software Engineering student who enjoys building things (especially when t
 ⚡ &nbsp;Fun fact: **I don't always know why my code works, but I'm learning why. 😅**
 
 <br>
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,23 +43,26 @@ I'm a Software Engineering student who enjoys building things (especially when t
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
+<br>
 
-
-<h3 align="center">📈 GitHub Analysis</h3>
+<h2 align="center">📈 GitHub Analysis</h2>
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean684&theme=default&hide_border=true&ring=db61a2&fire=2563eb&currStreakLabel=db61a2" />
 </p>
 
 
-<h3 align="center">🥨 Contribution Graph</h3>
+<h2 align="center">🥨 Contribution Graph</h2>
+---
 
 <p align="center">
   <img src="https://ghchart.rshah.org/db61a2/Jean684" />
 </p>
 
 
-<h3 align="center">🔗 Connect With Me</h3>
+<h2 align="center">🔗 Connect With Me</h2>
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/jean-rogers-874054395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
